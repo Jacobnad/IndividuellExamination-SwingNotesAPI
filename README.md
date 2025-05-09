@@ -15,3 +15,7 @@ GET /api/notes: För att hämta alla användarens anteckningar.
 PUT /api/notes: För att uppdatera en befintlig anteckning.
 
 DELETE /api/notes: För att ta bort en anteckning.
+
+presentationen 
+
+https://www.youtube.com/watch?v=l_2XdDNTh_Y
